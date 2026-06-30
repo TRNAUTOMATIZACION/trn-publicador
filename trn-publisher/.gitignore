@@ -1,0 +1,34 @@
+node_modules
+.next
+.env.local
+.env*.local
+.vercel
+.DS_Store
+# Dependencias
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Variables de entorno
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Cobertura
+coverage/
+
+# Archivos temporales
+*.tmp
